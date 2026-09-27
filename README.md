@@ -1,3 +1,5 @@
+assets/cover.png
+
 📥 Download the PDF to access the interactive navigation experience.
 
 # Possible Futures
