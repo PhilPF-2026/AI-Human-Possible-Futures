@@ -4,7 +4,7 @@ assets/cover.png
 
 # Possible Futures
 
-Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.
+Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.assets/cover.png
 
 What futures could AI create for humanity?
 
