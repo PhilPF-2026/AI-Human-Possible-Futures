@@ -1,15 +1,14 @@
 ![cover.png](assets/cover.png)
+---
+📥 **Download the interactive PDF:**<br>
+➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest<br>
+
+---
 
 # Possible Futures
 **Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.**
 
----
-📥 **Download the interactive PDF:**
----
-➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest
----
-
-**What futures could AI create for humanity?**
+**=> What futures could AI create for humanity?**
 
 This personal investigation explores hypothetical paths from extraordinary progress to dependency, concentrated power and loss of control.
 
@@ -33,7 +32,7 @@ This document was designed to be fully self-contained.<br>
  
 ✅ All navigation links remain internal to the document.<br>
  
-For security reasons, readers are encouraged to download the PDF directly from this GitHub repository and open it in their preferred PDF reader.
+**For security reasons, readers are encouraged to download the PDF directly from this GitHub repository and open it in their preferred PDF reader.**
 
 ## Latest Version
 
