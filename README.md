@@ -1,4 +1,4 @@
-![assets/cover.png]
+![cover.png](assets/cover.png)
 
 📥 Download the PDF to access the interactive navigation experience.
 
