@@ -1,11 +1,12 @@
 ![cover.png](assets/cover.png)
 
 # Possible Futures
- 
+**Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.**
+
+---
 📥 **Download the interactive PDF:**
 ---
 ➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest
- 
 ---
 
 **Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.**
