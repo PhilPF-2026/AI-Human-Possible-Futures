@@ -9,9 +9,7 @@
 ➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest
 ---
 
-**Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.**
-
-What futures could AI create for humanity?
+**What futures could AI create for humanity?**
 
 This personal investigation explores hypothetical paths from extraordinary progress to dependency, concentrated power and loss of control.
 
