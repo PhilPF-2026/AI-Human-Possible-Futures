@@ -21,6 +21,20 @@ This work was produced in a personal capacity and reflects only the author's opi
 
 It does not represent the views, positions, strategies or policies of any employer, organization, customer, institution or partner.
 
+## Security & Privacy
+ 
+This document was designed to be fully self-contained.
+ 
+✅ No hyperlink inside the PDF redirects to an external website.
+ 
+✅ No personal data is collected.
+ 
+✅ No tracking, analytics or third-party services are embedded.
+ 
+✅ All navigation links remain internal to the document.
+ 
+For security reasons, readers are encouraged to download the PDF directly from this GitHub repository and open it in their preferred PDF reader.
+
 ## Latest Version
 
 The latest version of the PDF can be downloaded directly from the Releases section of this repository.
