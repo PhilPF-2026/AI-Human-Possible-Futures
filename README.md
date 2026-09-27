@@ -3,7 +3,7 @@
 # Possible Futures
  
 📥 **Download the interactive PDF:**
- 
+---
 ➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest
  
 ---
