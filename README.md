@@ -1,8 +1,7 @@
-![cover.png](assets/cover.png)
----
 📥 **Download the interactive PDF:**<br>
 ➡️ https://github.com/PhilPF-2026/AI-Human-Possible-Futures/releases/latest<br>
-
+---
+![cover.png](assets/cover.png)
 ---
 
 # Possible Futures
