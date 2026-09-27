@@ -23,15 +23,15 @@ It does not represent the views, positions, strategies or policies of any employ
 
 ## Security & Privacy
  
-This document was designed to be fully self-contained.
+This document was designed to be fully self-contained.<br>
  
-✅ No hyperlink inside the PDF redirects to an external website.
+✅ No hyperlink inside the PDF redirects to an external website.<br>
  
-✅ No personal data is collected.
+✅ No personal data is collected.<br>
  
-✅ No tracking, analytics or third-party services are embedded.
+✅ No tracking, analytics or third-party services are embedded.<br>
  
-✅ All navigation links remain internal to the document.
+✅ All navigation links remain internal to the document.<br>
  
 For security reasons, readers are encouraged to download the PDF directly from this GitHub repository and open it in their preferred PDF reader.
 
