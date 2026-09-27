@@ -8,7 +8,7 @@
  
 ---
 
-Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.assets/cover.png
+**Exploring Humanity's Possible Futures in the Age of Artificial Intelligence.**
 
 What futures could AI create for humanity?
 
